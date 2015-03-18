@@ -1,0 +1,29 @@
+body{
+	text-align: center; 
+	margin: 0px auto 0px auto; /* top right bottom left */
+}
+
+img{
+	max-height: 100px;
+}
+
+div{ 
+	border: 1px dashed; 
+	padding:40px;
+}
+div#div1{
+	float: left;
+	width: 30%;
+}
+div#div2{
+	float: right;
+	width: 30%;
+}
+p#p1{clear:both;}
+
+div#div3{
+	margin-right: auto;
+	margin-left:auto;
+	width:40%;
+
+}
